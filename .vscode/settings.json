@@ -1,0 +1,6 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.defaultLanguage": "php",
+    "code-runner.terminalRoot": "/media/datahdapp/potter/phpudemy/php7basic",
+    "code-runner.runInTerminal": true
+}
